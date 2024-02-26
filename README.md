@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count]
-<h1> Welcome </h1>
+<h1> Welcome Visitor </h1>
 <!--
 **Youssef-Danial/Youssef-Danial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
