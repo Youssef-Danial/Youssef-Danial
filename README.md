@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/)
+![Visitor Count](https://profile-counter.glitch.me/Youssef-Danial/count.svg)
 <h1> Welcome </h1>
 <!--
 **Youssef-Danial/Youssef-Danial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
