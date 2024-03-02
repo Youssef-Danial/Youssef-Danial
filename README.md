@@ -6,6 +6,14 @@
     <li>🌱 I Love programming and creating new stuff that makes life easier</li>
     <li>✨ I am a Machine Learning enthusiast and Full-stack Engineer (Django)</li>
   </ul>
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,htmx)](https://skillicons.dev)
+
+  <!--<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,htmx" />
+  </a>
+</p> -->
 <!--
 **Youssef-Danial/Youssef-Danial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
