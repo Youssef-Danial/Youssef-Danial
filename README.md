@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  - 👋 I’m Youssef Danial
-  - 🌱 I Love programming and creating new stuff that makes life easier
-  - ✨ I am a Machine Learning enthusiast and Full-stack Engineer (Django)
+  <ul>
+    <li>👋 I’m Youssef Danial</li>
+    <li>🌱 I Love programming and creating new stuff that makes life easier</li>
+    <li>✨ I am a Machine Learning enthusiast and Full-stack Engineer (Django)</li>
+  </ul>
