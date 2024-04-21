@@ -3,7 +3,7 @@
 <h1> Welcome to my repo </h1>
  <ul>
     <li>👋 I’m Youssef Danial</li>
-    <li>🌱 I Love programming and creating new stuff that makes life easier</li>
+    <li>🌱 I love programming and creating new stuff that makes life easier</li>
     <li>✨ I am a Machine Learning enthusiast and Full-stack Engineer (Django)</li>
   </ul>
   
