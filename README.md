@@ -4,7 +4,6 @@
  <ul>
     <li>👋 I’m Youssef Danial</li>
     <li>🌱 I love programming and creating new stuff that makes life easier</li>
-    <li>✨ I am a Machine Learning enthusiast and Full-stack Engineer (Django)</li>
   </ul>
   
   [![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,htmx)](https://skillicons.dev)
