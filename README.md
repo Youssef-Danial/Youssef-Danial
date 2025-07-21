@@ -6,7 +6,7 @@
     <li>🌱 I love programming and creating new stuff that makes life easier</li>
   </ul>
   
-  [![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,htmx)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,django,js,html,css,tailwind,htmx,react)](https://skillicons.dev)
 
   <!--<p align="center">
   <a href="https://skillicons.dev">
